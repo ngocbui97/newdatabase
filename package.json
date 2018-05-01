@@ -1,0 +1,15 @@
+{
+  "name": "web_database",
+  "version": "1.0.0",
+  "description": "beta_database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ngocbui",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.0.17",
+    "nodejs": "0.0.0"
+  }
+}
